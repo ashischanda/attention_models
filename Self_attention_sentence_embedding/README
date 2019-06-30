@@ -1,3 +1,6 @@
 A Self-structured attention method for sentence embedding
 
+# Pytorch: '0.3.1.post2' 
+# Python: 3.5.2
+
 The code is forked from: https://github.com/kaushalshetty/Structured-Self-Attention
