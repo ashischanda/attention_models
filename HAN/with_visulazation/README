@@ -1,0 +1,14 @@
+#https://pythonawesome.com/train-and-visualize-hierarchical-attention-networks/
+
+# I run the HAN network on medical_notes successfully. (main.py)
+# The problem was that I don't know how to see the weight of the word?
+
+# I loaded code (labels) in code_dict
+# I loaded voca  in voca_dict
+# I read raw_note_data from a dict 
+# I run tokenize to make sentences from the raw_note_data
+
+
+# makeRawNotedata.py is used for this
+
+# Go at the link to see how to run visulaization code
